@@ -1,1 +1,3 @@
 # Spoiler Free Movie Recommender
+
+The aim of this project is to find whether a review contains any information that will ruin the experience of other people. We will utilize two datasets that contains reviews from IMDB website with around 500K observation and one that contains information and the plot of a movie with around 2K observations. We’ll handle the textual data in multiple ways so that it will be used easily by different ML models. We’ll clean the data using different techniques. In addition, extra methods and techniques will be used to deal with the data when needed. Finally, we’ll use different models to draw a conclusion about which is the best model to be used based on their performances.
